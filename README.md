@@ -1,2 +1,2 @@
-# VLK-Tec
-Projeto realizado em grupo durante o curso.
+# VLK-TEC
+VLK TEC (inclusão de pessoas com deficiência visual)
